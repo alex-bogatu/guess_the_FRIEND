@@ -29,3 +29,4 @@ Pre-trained FRIENDS embeddings for each character are provided [here], but there
 
 ## Licensing, Authors, Acknowledgements
 Feel free to use the code here as you would like!
+Thank you [shilpibhattacharyya](https://github.com/shilpibhattacharyya/Friends_Analysis) for making the curated data available.
