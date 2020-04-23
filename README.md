@@ -18,6 +18,11 @@ Starting from [this](https://fangj.github.io/friends/) data, conveniently curate
 
 A more detailed description of the project can be found [here].
 
+## Available files
+
+- Pre-trained language models for each FRIENDS character trained with quotes from Seasons 1-8.
+- Jupyter Notebook with code for downloading the data, creating the above mentioned models and training and testing a quote classification model on data from Seasons 9 and 10.
+
 ## Instructions for running the project:
 
 Pre-trained FRIENDS embeddings for each character are provided [here], but there is code available to train your own, maybe using a different architecture. Running the entire notebook will download FastText vectors, create the language models and train the quote calssifier.
